@@ -1,0 +1,24 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.card {
+  margin-top: 5vh;
+  opacity: .9;
+}
+.my-image {
+  max-height: 30vh;
+  height: auto;
+  width: auto;
+  -o-object-fit: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+.about-card {
+  max-width: 40%;
+  height: auto;
+}
